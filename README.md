@@ -1,1 +1,1 @@
-# funkin-modding-docs
+# Funkin' Modding Docs

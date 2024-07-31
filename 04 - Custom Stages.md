@@ -159,13 +159,9 @@ The animation names the game uses by default are:
 
 When the game starts, it queries the list of possible characters by searching in the `data/characters` folder for JSON files. This gets used to preload data which is used later when the character is loaded in a stage.
 
-## Replacing/Reskinning an Existing Character
-
-As a short aside, you can create a JSON with the same filename as an existing character (from the base game, or from a mod if your mod loads after it) and it will replace it. This can be used to create more elaborate reskins for characters, such as ones that use a different render type.
-
 ## Using a Stage in a Song
 
-There are two ways to use your character in a song once it's implemented.
+There are two ways to use your stage in a song once it's implemented.
 
 1. Create a new chart. Open the Chart Editor, start a chart, and select the stage from the `Metadata` toolbox before charting.
 2. Edit an existing chart in your mod. Open the `metadata.json` file and check in `playData` for the `stage` key, and set it to your internal ID.

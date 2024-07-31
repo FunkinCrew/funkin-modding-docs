@@ -1,0 +1,6 @@
+[book]
+authors = ["The Funkin' Crew Inc.", "EliteMasterEric"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Friday Night Funkin' Modding Documentation"

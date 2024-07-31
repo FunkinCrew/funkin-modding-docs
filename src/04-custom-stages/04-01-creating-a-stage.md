@@ -1,16 +1,14 @@
-# Creating a Friday Night Funkin' Mod - Custom Stages
-
-This guide will walk you through the process of creating a functioning, fully compatible Friday Night Funkin' mod, using the game's official systems for loading custom content and scripts. Once your mod is complete, you will be able to place it in the `mods` folder in your game install and use its content in-game without overriding the base game content and still maintain compatibility with other mods.
-
-This entry goes over adding new stages to the game, and using them in a song.
+# Creating a Stage
 
 ## Stage Assets
 
-The assets required for a stage should be placed into the `shared/images/` folder within your mod, ideally somewhere organized like a subfolder with the name of the stage.
+The image assets required for a stage should be placed into the `shared/images/` folder within your mod, ideally somewhere organized like a subfolder with the name of the stage.
 
-## Creating a Stage
+## Stage Data
 
 A custom stage requires creating a new JSON file in the `data/stages` folder
+
+Below is the "Main Stage" json file from Week 1 `assets/data/stages/mainStage.json`[^stagesource]
 
 ```json
 {
@@ -159,15 +157,4 @@ The animation names the game uses by default are:
 
 When the game starts, it queries the list of possible characters by searching in the `data/characters` folder for JSON files. This gets used to preload data which is used later when the character is loaded in a stage.
 
-## Replacing/Reskinning an Existing Character
-
-As a short aside, you can create a JSON with the same filename as an existing character (from the base game, or from a mod if your mod loads after it) and it will replace it. This can be used to create more elaborate reskins for characters, such as ones that use a different render type.
-
-## Using a Stage in a Song
-
-There are two ways to use your character in a song once it's implemented.
-
-1. Create a new chart. Open the Chart Editor, start a chart, and select the stage from the `Metadata` toolbox before charting.
-2. Edit an existing chart in your mod. Open the `metadata.json` file and check in `playData` for the `stage` key, and set it to your internal ID.
-
-Once the chart which references your stage is in your mod folder, simply start the game with your mod installed.
+[^stagesource]: <https://github.com/FunkinCrew/funkin.assets/blob/main/preload/data/stages/mainStage.json>

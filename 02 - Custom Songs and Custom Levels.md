@@ -88,7 +88,7 @@ We'll end up with something like this.
    |-images
      |-storymenu
        |-titles
-         |-myweek.json
+         |-myweek.png
    |-_polymod_metadata.json
 ```
 

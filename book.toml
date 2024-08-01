@@ -7,5 +7,5 @@ title = "Friday Night Funkin' Modding Documentation"
 
 
 [output.html]
-git-repository-url = "https://github.com/FunkinCrew/funkin-modding-docs/tree/main/guide"
-edit-url-template = "https://github.com/FunkinCrew/funkin-modding-docs/edit/main/guide/{path}"
+git-repository-url = "https://github.com/FunkinCrew/funkin-modding-docs/tree/main/"
+edit-url-template = "https://github.com/FunkinCrew/funkin-modding-docs/edit/main/{path}"

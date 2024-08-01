@@ -1,0 +1,5 @@
+# Creating a Friday Night Funkin' Mod - Using HScript
+
+This guide will walk you through the process of creating a functioning, fully compatible Friday Night Funkin' mod, using the game's official systems for loading custom content and scripts. Once your mod is complete, you will be able to place it in the `mods` folder in your game install and use its content in-game without overriding the base game content and still maintain compatibility with other mods.
+
+The previous chapters provides for plenty of functionality, and should be sufficient to make your own custom story weeks complete with custom characters, stages with static and animated props, and songs with custom chart events. However, this does not provide for advanced functionality, such as cutscenes, custom mechanics, or other custom behavior. The following chapters describe how to implement your own custom behavior, and this chapter breaks down important fundamentals on how scripting works and how to resolve common issues encountered while scripting.

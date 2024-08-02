@@ -2,7 +2,7 @@
 
 The individual sprites of a character's animations must be combined into a spritesheet for the game to use them. Friday Night Funkin' supports one of several formats:
 
-- `sparrow`: Combines the images into a large sheet, then provides an XML file containing the coordinates of each frame with it. Can be exported directly from Adobe Animate using the `Generate Sprite Sheet` option, or can be created from individual frames using [Free Texture Packer](http://free-tex-packer.com/) (note that Free Texture Packer refers to this format as Starling).
+- `sparrow`: Combines the images into a large sheet, then provides an XML file containing the coordinates of each frame with it. Can be exported directly from Adobe Animate or Flash CS6 using the `Generate Sprite Sheet` option, or can be created from individual frames using [Free Texture Packer](http://free-tex-packer.com/) (note that Free Texture Packer refers to this format as Starling).
 
 - `packer`: Combines images into a sheet, then provides a TXT file containing the coordinates of each frame.
 

@@ -25,6 +25,15 @@
     - [Creating a Stage](04-custom-stages/04-01-creating-a-stage.md)
     - [Using a Stage in a Song](04-custom-stages/04-02-using-a-stage-in-a-song.md)
 
+- [Custom Note Styles](08-custom-notestyles/08-00-custom-notestyles.md)
+    - [Creating a Note Style](08-custom-notestyles/08-01-creating-a-notestyle.md)
+    - [Using a Note Style in a Song](08-custom-notestyles/08-02-using-a-notestyle-in-a-song.md)
+
+- [Custom Countdowns and Custom Popups](09-custom-countdowns-and-custom-popups/09-00-custom-countdowns-and-custom-coutndowns.md)
+    - [Creating Custom Countdowns](09-custom-countdowns-and-custom-popups/09-01-creating-custom-countdowns.md)
+    - [Creating Custom Popups](09-custom-countdowns-and-custom-popups/09-02-creating-custom-popups.md)
+    - [Using Custom Countdowns and Custom Popups](09-custom-countdowns-and-custom-popups/09-03-using-custom-countdowns-and-custom-popups)
+
 - [Appending And Merging Files](10-appending-and-merging-files/10-00-appending-and-merging-files.md)
     - [Appending Files](10-appending-and-merging-files/10-01-appending-files.md)
     - [Merging Files](10-appending-and-merging-files/10-02-merging-files.md)

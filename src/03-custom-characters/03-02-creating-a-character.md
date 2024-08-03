@@ -98,11 +98,39 @@ The available fields are:
   - For the `packer` asset type, this must point to the path where the `txt` and `png` are located, without the file extension.
   - For the `animateatlas` asset type, this must point to the folder where the `Animation.json` and any spritemaps are located.
   - For the `multisparrow` asset type, point to the path where your main Sparrow spritesheet is located. On each animations which uses a different Sparrow spritesheet from the main one, add the `assetPath` key to that specific animation.
+- `scale`: Specify the size of the character relative to the original size. For example, `2.0` makes the sprite twice as big. Optional, defaults to `1.0`.
+- `healthIcon`: Data for the health icon to display in-game. For example, Boyfriend will obviously use Boyfriend's health icon.
+- `death`: Data for the death screen to use, when the character reaches `0` health.
+- `offsets`: The global offset to the character's position, in pixels.
+  - Use an array of two decimal values, the first for horizontal position and the second for vertical position.
+- `cameraOffsets`: The amount to offset the camera by while focusing on this character.
+  - Default value focuses on the character directly.
+  - Use an array of two decimal values, the first for horizontal position and the second for vertical position.
+- `isPixel`: Specify whether to display the character as pixel (disabling texture smoothing). Optional, defaults to `false`.
+- `danceEvery`: The frequency at which the character will play its idle animation, in beats. Optional, defaults to `1`.
+  - Increasing this number will make the character dance less often.
+- `flipX`: Whether to flip the whole sprite horizontally in-game. Useful for characters that could also be played (Pico).
 - `startingAnimation`: The animation for the character to play when they are first loaded in.
 - `singTime`: The amount of time, in steps, for a character to keep singing after they let go of a note.
   - Decrease this if the character seems to hold their poses for too long after their section is done.
   - Increase this if the character resets to the idle animation in the middle of their singing animations.
 - `animations`: A list of animation data objects for the character.
+
+Health Icon data is structured like so:
+  - `id`: The ID to use for the health icon, defaults to character's ID.
+  - `scale`: Specify the size of the health icon relative to the original size. For example, `2.0` makes the sprite twice as big. Optional, defaults to `1.0`.
+  - `flipX`: Whether to flip the whole sprite horizontally in-game.
+  - `isPixel`: Specify whether to display the health icon as pixel (disabling texture smoothing). Optional, defaults to `false`.
+  - `offsets`:
+    - Use an array of two decimal values, the first for horizontal position and the second for vertical position.
+
+Death data is structured like so:
+  - `cameraOffsets`: The amount to offset the camera by while focusing on this character as they die.
+    - Default value focuses on the character's graphic midpoint.
+    - Use an array of two decimal values, the first for horizontal position and the second for vertical position.
+  - `cameraZoom`: The amount to zoom the camera by while focusing on this character as they die.
+  - `preTransitionDelay`: The delay between when the character reaches `0` health and when the death animation plays.
+
 
 Animation data is structured like so:
 - `name`: The internal animation name for the game to use.

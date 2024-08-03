@@ -31,7 +31,7 @@ There is a predefined list of classes which the game has set up to be scriptable
 - `funkin.play.notes.notestyle.NoteStyle` for modifying the behavior of custom note styles.
 - `funkin.play.cutscene.dialogue.Conversation` for providing unique behavior to custom dialogue conversations
 - `funkin.play.cutscene.dialogue.DialogueBox` for providing unique behavior to custom dialogue boxes used in conversations
-- `funkin.play.cutscene.dialogue.Speaker` for providing unique behavior to custom speakers used in converstaions
+- `funkin.play.cutscene.dialogue.Speaker` for providing unique behavior to custom speakers used in conversations
 - `funkin.ui.freeplay.Album` for defining custom behavior for Freeplay Albums.
 - `funkin.modding.module.Module` for custom scripted Modules, which are scripts which receive events everywhere, rather than only in a specific context.
 

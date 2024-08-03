@@ -118,17 +118,17 @@ The available fields are:
 Health Icon data is structured like so:
   - `id`: The ID to use for the health icon, defaults to character's ID.
   - `scale`: Specify the size of the health icon relative to the original size. For example, `2.0` makes the sprite twice as big. Optional, defaults to `1.0`.
-  - `flipX`: Whether to flip the whole sprite horizontally in-game.
+  - `flipX`: Whether to flip the whole sprite horizontally in-game. Optional, defaults to `false`.
   - `isPixel`: Specify whether to disable texture smoothing for this characters health icon. Optional, defaults to `false`.
-  - `offsets`:
+  - `offsets`: The offset of the health icon, in pixels. Optional, defaults to `[0, 0]`.
     - Use an array of two decimal values, the first for horizontal position and the second for vertical position.
 
 Death data is structured like so:
-  - `cameraOffsets`: The amount to offset the camera by while focusing on this character as they die.
+  - `cameraOffsets`: The amount to offset the camera by while focusing on this character as they die. Optional, defaults to `[0, 0]`.
     - Default value focuses on the character's graphic midpoint.
     - Use an array of two decimal values, the first for horizontal position and the second for vertical position.
-  - `cameraZoom`: The amount to zoom the camera by while focusing on this character as they die.
-  - `preTransitionDelay`: The delay between when the character reaches `0` health and when the death animation plays.
+  - `cameraZoom`: The amount to zoom the camera by while focusing on this character as they die. Optional, defaults to `1`.
+  - `preTransitionDelay`: The delay between when the character reaches `0` health and when the death animation plays. Optional, defaults to `0`.
 
 Animation data is structured like so:
 - `name`: The internal animation name for the game to use.

@@ -106,7 +106,7 @@ The available fields are:
 - `cameraOffsets`: The amount to offset the camera by while focusing on this character.
   - Default value focuses on the character directly.
   - Use an array of two decimal values, the first for horizontal position and the second for vertical position.
-- `isPixel`: Specify whether to display the character as pixel (disabling texture smoothing). Optional, defaults to `false`.
+- `isPixel`: Specify whether to disable texture smoothing for this character. Optional, defaults to `false`.
 - `danceEvery`: The frequency at which the character will play its idle animation, in beats. Optional, defaults to `1`.
   - Increasing this number will make the character dance less often.
 - `flipX`: Whether to flip the whole sprite horizontally in-game. Useful for characters that could also be played (Pico).
@@ -120,7 +120,7 @@ Health Icon data is structured like so:
   - `id`: The ID to use for the health icon, defaults to character's ID.
   - `scale`: Specify the size of the health icon relative to the original size. For example, `2.0` makes the sprite twice as big. Optional, defaults to `1.0`.
   - `flipX`: Whether to flip the whole sprite horizontally in-game.
-  - `isPixel`: Specify whether to display the health icon as pixel (disabling texture smoothing). Optional, defaults to `false`.
+  - `isPixel`: Specify whether to disable texture smoothing for this characters health icon. Optional, defaults to `false`.
   - `offsets`:
     - Use an array of two decimal values, the first for horizontal position and the second for vertical position.
 
@@ -130,7 +130,6 @@ Death data is structured like so:
     - Use an array of two decimal values, the first for horizontal position and the second for vertical position.
   - `cameraZoom`: The amount to zoom the camera by while focusing on this character as they die.
   - `preTransitionDelay`: The delay between when the character reaches `0` health and when the death animation plays.
-
 
 Animation data is structured like so:
 - `name`: The internal animation name for the game to use.

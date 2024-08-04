@@ -8,7 +8,8 @@
     - [Loading the Mod In-Game](01-fundamentals/01-02-loading-the-mod-in-game.md)
     - [Asset Replacement and Additons](01-fundamentals/01-03-asset-replacement-and-additions.md)
     - [Mod Load Order](01-fundamentals/01-04-mod-load-order.md)
-    - [Chapter Conclusion](01-fundamentals/01-05-chapter-conclusion.md)
+    - [Hot Reloading](01-fundamentals/01-05-hot-reloading.md)
+    - [Chapter Conclusion](01-fundamentals/01-06-chapter-conclusion.md)
 
 # Custom Assets
 - [Custom Songs and Custom Levels](02-custom-songs-and-custom-levels/02-00-custom-songs-and-custom-levels.md)

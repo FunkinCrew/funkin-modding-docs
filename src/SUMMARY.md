@@ -21,6 +21,7 @@
     - [Character Assets](03-custom-characters/03-01-character-assets.md)
     - [Creating a Character](03-custom-characters/03-02-creating-a-character.md)
     - [Using a Character in a Song](03-custom-characters/03-02-using-a-character-in-a-song.md)
+    - [Fixing Character Offsets](03-custom-characters/03-03-fixing-character-offsets.md)
 
 - [Custom Stages](04-custom-stages/04-00-custom-stages.md)
     - [Creating a Stage](04-custom-stages/04-01-creating-a-stage.md)

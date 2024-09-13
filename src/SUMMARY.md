@@ -26,6 +26,12 @@
     - [Creating a Stage](04-custom-stages/04-01-creating-a-stage.md)
     - [Using a Stage in a Song](04-custom-stages/04-02-using-a-stage-in-a-song.md)
 
+
+# Mod API Systems
+
+- [Migration](09-migration/09-00-migrating-mods-to-newer-versions.md)
+    - [v0.1.0 to v0.5.0](09-migration/09-01-0.1.0-to-0.5.0.md)
+
 - [Appending And Merging Files](10-appending-and-merging-files/10-00-appending-and-merging-files.md)
     - [Appending Files](10-appending-and-merging-files/10-01-appending-files.md)
     - [Merging Files](10-appending-and-merging-files/10-02-merging-files.md)

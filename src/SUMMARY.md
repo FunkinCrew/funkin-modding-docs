@@ -8,35 +8,60 @@
     - [Loading the Mod In-Game](01-fundamentals/01-02-loading-the-mod-in-game.md)
     - [Asset Replacement and Additons](01-fundamentals/01-03-asset-replacement-and-additions.md)
     - [Mod Load Order](01-fundamentals/01-04-mod-load-order.md)
-    - [Chapter Conclusion](01-fundamentals/01-05-chapter-conclusion.md)
+    - [Hot Reloading](01-fundamentals/01-05-hot-reloading.md)
+    - [Chapter Conclusion](01-fundamentals/01-06-chapter-conclusion.md)
 
 # Custom Assets
 - [Custom Songs and Custom Levels](02-custom-songs-and-custom-levels/02-00-custom-songs-and-custom-levels.md)
     - [Creating a Chart](02-custom-songs-and-custom-levels/02-01-creating-a-chart.md)
     - [Adding the Custom Song](02-custom-songs-and-custom-levels/02-02-adding-the-custom-song.md)
     - [Adding a Custom Level](02-custom-songs-and-custom-levels/02-03-adding-a-custom-level.md)
+    - [What Are Variations?](02-custom-songs-and-custom-levels/02-04-what-are-variations.md)
+    - [WIP: Adding Variations to Existing Songs](02-custom-songs-and-custom-levels/02-05-adding-variations-to-existing-songs.md)
 
 - [Custom Characters](03-custom-characters/03-00-custom-characters.md)
     - [Character Assets](03-custom-characters/03-01-character-assets.md)
     - [Creating a Character](03-custom-characters/03-02-creating-a-character.md)
     - [Using a Character in a Song](03-custom-characters/03-02-using-a-character-in-a-song.md)
+    - [Fixing Character Offsets](03-custom-characters/03-03-fixing-character-offsets.md)
 
 - [Custom Stages](04-custom-stages/04-00-custom-stages.md)
     - [Creating a Stage](04-custom-stages/04-01-creating-a-stage.md)
     - [Using a Stage in a Song](04-custom-stages/04-02-using-a-stage-in-a-song.md)
 
-- [Custom Note Styles](08-custom-notestyles/08-00-custom-notestyles.md)
-    - [Creating a Note Style](08-custom-notestyles/08-01-creating-a-notestyle.md)
-    - [Using a Note Style in a Song](08-custom-notestyles/08-02-using-a-notestyle-in-a-song.md)
+- [WIP: Custom Playable Characters](05-custom-playable-characters/05-00-custom-playable-characters.md)
 
-- [Custom Countdowns and Custom Popups](09-custom-countdowns-and-custom-popups/09-00-custom-countdowns-and-custom-coutndowns.md)
-    - [Creating Custom Countdowns](09-custom-countdowns-and-custom-popups/09-01-creating-custom-countdowns.md)
-    - [Creating Custom Popups](09-custom-countdowns-and-custom-popups/09-02-creating-custom-popups.md)
-    - [Using Custom Countdowns and Custom Popups](09-custom-countdowns-and-custom-popups/09-03-using-custom-countdowns-and-custom-popups)
+- [Custom Note Styles](06-custom-notestyles/06-00-custom-notestyles.md)
+    - [Creating a Note Style](06-custom-notestyles/06-01-creating-a-notestyle.md)
+    - [Using a Note Style in a Song](06-custom-notestyles/06-02-using-a-notestyle-in-a-song.md)
+
+# Mod API Systems
+
+- [Migration](09-migration/09-00-migrating-mods-to-newer-versions.md)
+    - [v0.1.0 to v0.5.0](09-migration/09-01-0.1.0-to-0.5.0.md)
 
 - [Appending And Merging Files](10-appending-and-merging-files/10-00-appending-and-merging-files.md)
     - [Appending Files](10-appending-and-merging-files/10-01-appending-files.md)
     - [Merging Files](10-appending-and-merging-files/10-02-merging-files.md)
+
+# HScript
+
+- [Using HScript](20-using-hscript/20-00-using-hscript.md)
+    - [What is HScript?](20-using-hscript/20-01-what-is-hscript.md)
+    - [Scripted Classes](20-using-hscript/20-02-scripted-classes.md)
+
+- [WIP: Scripted Songs](21-scripted-songs/21-00-scripted-songs.md)
+- [WIP: Cutscenes](22-cutscenes/22-00-cutscenes.md)
+- [WIP: Scripted Characters](23-scripted-characters/23-00-scripted-characters.md)
+- [WIP: Scripted Stages](24-scripted-stages/24-00-scripted-stages.md)
+- [WIP: Scripted Story Levels](25-scripted-levels/25-00-scripted-levels.md)
+- [WIP: Scripted Note Kinds](26-scripted-note-kinds/26-00-scripted-note-kinds.md)
+- [WIP: Scripted Playable Characters](27-scripted-playable-characters/27-00-scripted-playable-characters.md)
+
+# HScript (Advanced)
+
+- [WIP: Scripted Modules](30-scripted-modules/30-00-scripted-modules.md)
+- [WIP: Custom Shaders](31-custom-shaders/31-00-custom-shaders.md)
 
 ---
 

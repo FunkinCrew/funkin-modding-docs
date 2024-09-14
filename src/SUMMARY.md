@@ -28,6 +28,7 @@
     - [Creating a Stage](04-custom-stages/04-01-creating-a-stage.md)
     - [Using a Stage in a Song](04-custom-stages/04-02-using-a-stage-in-a-song.md)
 
+- [WIP: Custom Playable Characters](05-custom-playable-characters/05-00-custom-playable-characters.md)
 
 # Mod API Systems
 
@@ -43,6 +44,19 @@
 - [Using HScript](20-using-hscript/20-00-using-hscript.md)
     - [What is HScript?](20-using-hscript/20-01-what-is-hscript.md)
     - [Scripted Classes](20-using-hscript/20-02-scripted-classes.md)
+
+- [WIP: Scripted Songs](21-scripted-songs/21-00-scripted-songs.md)
+- [WIP: Cutscenes](22-cutscenes/22-00-cutscenes.md)
+- [WIP: Scripted Characters](23-scripted-characters/23-00-scripted-characters.md)
+- [WIP: Scripted Stages](24-scripted-stages/24-00-scripted-stages.md)
+- [WIP: Scripted Story Levels](25-scripted-levels/25-00-scripted-levels.md)
+- [WIP: Scripted Note Kinds](26-scripted-note-kinds/26-00-scripted-note-kinds.md)
+- [WIP: Scripted Playable Characters](27-scripted-playable-characters/27-00-scripted-playable-characters.md)
+
+# HScript (Advanced)
+
+- [WIP: Scripted Modules](30-scripted-modules/30-00-scripted-modules.md)
+- [WIP: Custom Shaders](31-custom-shaders/31-00-custom-shaders.md)
 
 ---
 

@@ -16,6 +16,8 @@
     - [Creating a Chart](02-custom-songs-and-custom-levels/02-01-creating-a-chart.md)
     - [Adding the Custom Song](02-custom-songs-and-custom-levels/02-02-adding-the-custom-song.md)
     - [Adding a Custom Level](02-custom-songs-and-custom-levels/02-03-adding-a-custom-level.md)
+    - [What Are Variations?](02-custom-songs-and-custom-levels/02-04-what-are-variations.md)
+    - [WIP: Adding Variations to Existing Songs](02-custom-songs-and-custom-levels/02-05-adding-variations-to-existing-songs.md)
 
 - [Custom Characters](03-custom-characters/03-00-custom-characters.md)
     - [Character Assets](03-custom-characters/03-01-character-assets.md)

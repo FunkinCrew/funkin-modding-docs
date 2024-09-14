@@ -31,6 +31,10 @@
 
 - [WIP: Custom Playable Characters](05-custom-playable-characters/05-00-custom-playable-characters.md)
 
+- [Custom Note Styles](06-custom-notestyles/06-00-custom-notestyles.md)
+    - [Creating a Note Style](06-custom-notestyles/06-01-creating-a-notestyle.md)
+    - [Using a Note Style in a Song](06-custom-notestyles/06-02-using-a-notestyle-in-a-song.md)
+
 # Mod API Systems
 
 - [Migration](09-migration/09-00-migrating-mods-to-newer-versions.md)

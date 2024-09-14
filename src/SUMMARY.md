@@ -38,6 +38,12 @@
     - [Appending Files](10-appending-and-merging-files/10-01-appending-files.md)
     - [Merging Files](10-appending-and-merging-files/10-02-merging-files.md)
 
+# HScript
+
+- [Using HScript](20-using-hscript/20-00-using-hscript.md)
+    - [What is HScript?](20-using-hscript/20-01-what-is-hscript.md)
+    - [Scripted Classes](20-using-hscript/20-02-scripted-classes.md)
+
 ---
 
 [Writing And Contributing to This Book](writing-and-contributing-to-this-book.md)

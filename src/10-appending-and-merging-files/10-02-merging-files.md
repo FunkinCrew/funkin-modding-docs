@@ -2,6 +2,8 @@
 
 Merging files into a data file is required for more complicated operations, such as inserting data somewhere other than the start of the document, replacing certain data with new data, or even deleting certain data from the document.
 
+By using `_merge` files, rather than replacing the data files entirely, you make your mod fully compatible with both changes to the base game and to changes made by other mods. Merge files are applied in mod load order, meaning that multiple mods can make changes to the same file without any conflicts!
+
 ### Merging into TXT Files
 **TODO**
 

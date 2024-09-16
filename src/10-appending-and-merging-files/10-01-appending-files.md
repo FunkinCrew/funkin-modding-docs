@@ -59,4 +59,4 @@ And Polymod will mutate it to get this result:
 }
 ```
 
-If you want something more particular, see [Merging into JSON Files](./10-02-merging-files.md#merging-into-json-files) from [5.2 Merging Files](10-02-merging-files.md) for a more powerful and flexible approach.
+If you want something more particular, see [Merging into JSON Files](./10-02-merging-files.md#merging-into-json-files) for a more powerful and flexible approach.

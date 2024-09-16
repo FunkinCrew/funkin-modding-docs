@@ -30,6 +30,8 @@
     - [Using a Stage in a Song](04-custom-stages/04-02-using-a-stage-in-a-song.md)
 
 - [WIP: Custom Playable Characters](05-custom-playable-characters/05-00-custom-playable-characters.md)
+    - [Required Assets](05-custom-playable-characters/05-01-required-assets.md)
+    - Implementing a Playable Character
 
 - [Custom Note Styles](06-custom-notestyles/06-00-custom-notestyles.md)
     - [Creating a Note Style](06-custom-notestyles/06-01-creating-a-notestyle.md)

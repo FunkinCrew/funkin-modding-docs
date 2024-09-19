@@ -31,7 +31,7 @@
 
 - [WIP: Custom Playable Characters](05-custom-playable-characters/05-00-custom-playable-characters.md)
     - [Required Assets](05-custom-playable-characters/05-01-required-assets.md)
-    - Implementing a Playable Character
+    - [WIP: Implementing a Playable Character](05-custom-playable-characters/05-00-custom-playable-characters.md)
 
 - [Custom Note Styles](06-custom-notestyles/06-00-custom-notestyles.md)
     - [Creating a Note Style](06-custom-notestyles/06-01-creating-a-notestyle.md)
@@ -51,14 +51,6 @@
 - [Using HScript](20-using-hscript/20-00-using-hscript.md)
     - [What is HScript?](20-using-hscript/20-01-what-is-hscript.md)
     - [Scripted Classes](20-using-hscript/20-02-scripted-classes.md)
-
-- [WIP: Scripted Songs](21-scripted-songs/21-00-scripted-songs.md)
-- [WIP: Cutscenes](22-cutscenes/22-00-cutscenes.md)
-- [WIP: Scripted Characters](23-scripted-characters/23-00-scripted-characters.md)
-- [WIP: Scripted Stages](24-scripted-stages/24-00-scripted-stages.md)
-- [WIP: Scripted Story Levels](25-scripted-levels/25-00-scripted-levels.md)
-- [WIP: Scripted Note Kinds](26-scripted-note-kinds/26-00-scripted-note-kinds.md)
-- [WIP: Scripted Playable Characters](27-scripted-playable-characters/27-00-scripted-playable-characters.md)
 
 # HScript (Advanced)
 

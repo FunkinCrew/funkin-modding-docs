@@ -30,6 +30,7 @@ There is a predefined list of classes which the game has set up to be scriptable
 	- `funkin.play.character.MultiSparrowCharacter` is used for characters that have several Sparrow spritesheet animations to combine into one character.
 	- `funkin.play.character.PackerCharacter` is used for characters that have Packer spritesheet animations.
 	- `funkin.play.character.AnimateAtlasCharacter` is used for characters that have Adobe Animate texture atlases.
+	- `funkin.play.character.BaseCharacter` has empty stubs for all the rendering and animation handlers, and is only useful for people who want to reimplement their character's animation system by hand.
 - `funkin.play.stage.Stage` for providing unique behavior to custom stages, such as creating custom moving props and defining when props animate or when sound effects play in sync with the stage. See [Scripted Stages](21-scripted-classes/24-06-scripted-stages.md).
 - `funkin.ui.story.Level` for providing unique behavior to levels in Story Mode. See [Scripted Story Levels](21-scripted-classes/25-07-scripted-story-levels.md).
 - `funkin.play.notes.notekind.NoteKind` for providing unique visuals and behavior to certain kinds of notes, which can then be placed in the Chart Editor. See [Custom Note Kinds](21-scripted-classes/26-00-custom-note-kinds.md).

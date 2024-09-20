@@ -21,5 +21,4 @@ class BallisticSong extends Song {
 }
 ```
 
-You can then add override functions to perform custom behavior. Here are some useful snippets:
-
+You can then add override functions to perform custom behavior.

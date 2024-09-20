@@ -50,7 +50,8 @@
 
 - [Using HScript](20-using-hscript/20-00-using-hscript.md)
     - [What is HScript?](20-using-hscript/20-01-what-is-hscript.md)
-    - [Scripted Classes](20-using-hscript/20-02-scripted-classes.md)
+- [Scripted Classes](20-using-hscript/21-00-scripted-classes.md)
+    - [Scripted Songs](20-using-hscript/21-01-scripted-songs.md)
 
 # HScript (Advanced)
 

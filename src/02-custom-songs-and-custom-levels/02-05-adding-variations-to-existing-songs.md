@@ -68,7 +68,7 @@ Then we apply a simple patch, which adds a new value to the `playData.songVariat
 
 ```json
 [
-    { "op": "add", "path": "/playData/songVariations/-", "value": "erect" }, // Add a new value erect to the end of the songVariations array.
+    { "op": "add", "path": "/playData/songVariations/-", "value": "erect" } // Add a new value erect to the end of the songVariations array.
 ]
 ```
 

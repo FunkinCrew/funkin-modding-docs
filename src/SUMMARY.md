@@ -29,9 +29,9 @@
     - [Creating a Stage](04-custom-stages/04-01-creating-a-stage.md)
     - [Using a Stage in a Song](04-custom-stages/04-02-using-a-stage-in-a-song.md)
 
-- [WIP: Custom Playable Characters](05-custom-playable-characters/05-00-custom-playable-characters.md)
+- [Custom Playable Characters](05-custom-playable-characters/05-00-custom-playable-characters.md)
     - [Required Assets](05-custom-playable-characters/05-01-required-assets.md)
-    - [WIP: Implementing a Playable Character](05-custom-playable-characters/05-00-custom-playable-characters.md)
+    - [Creating a Playable Character](05-custom-playable-characters/05-02-creating-a-playable-character.md)
 
 - [Custom Note Styles](06-custom-notestyles/06-00-custom-notestyles.md)
     - [Creating a Note Style](06-custom-notestyles/06-01-creating-a-notestyle.md)

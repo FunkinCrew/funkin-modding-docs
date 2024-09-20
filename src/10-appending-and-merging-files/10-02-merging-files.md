@@ -76,7 +76,7 @@ As soon as it finds the first match, it stops and merges the payload with the sp
 
 ### Merging into JSON Files
 
-Merging into JSON files is done using a [JSON Patch](https://jsonpatch.com/) document.
+Merging into JSON files is done using a [JSON Patch](https://jsonpatch.com/) document. (NOTE: This significantly differs from JSON patch files created for v0.4.1 and earlier, which used a different system that honestly kinda sucked).
 
 Say we have a JSON data file `data/songs/mysong-metadata.json` like below:
 

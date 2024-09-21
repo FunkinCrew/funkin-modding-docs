@@ -67,9 +67,9 @@ Create a `_merge` folder in your mod folder, then create a file within that dire
 Then we apply a simple patch, which adds a new value to the `playData.songVariations` array. Edit the JSON file and add these contents:
 
 ```json
-{
-    { "op": "add", "path": "/playData/songVariations/-", "value": "erect" }, // Add a new value erect to the end of the songVariations array.
-}
+[
+    { "op": "add", "path": "/playData/songVariations/-", "value": "erect" } // Add a new value erect to the end of the songVariations array.
+]
 ```
 
 The patching system is very flexible; it works on any JSON file (base game or provided by another mod) and has support for advanced behavior. See [Merging Files](10-appending-and-merging-files/10-02-merging-files.md) for more information.

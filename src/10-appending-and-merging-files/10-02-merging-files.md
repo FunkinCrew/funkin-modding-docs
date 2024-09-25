@@ -97,7 +97,7 @@ Say we have a JSON data file `data/songs/mysong-metadata.json` like below:
 }
 ```
 
-We can modify the above data with a document `mods/mymod/_append/data/songs/mysong-metadata.json`:
+We can modify the above data with a document `mods/mymod/_merge/data/songs/mysong-metadata.json`:
 
 ```jsonc
 [

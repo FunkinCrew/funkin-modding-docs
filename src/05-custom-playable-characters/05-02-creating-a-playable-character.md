@@ -76,7 +76,12 @@ A custom playable character requires creating a new JSON file in the `data/chara
     ]
   },
   "charSelect": {
-    "position": 3
+    "position": 3,
+    "gf": {
+      "assetPath": "charSelect/neneChill",
+      "animInfoPath": "charSelect/neneAnimInfo",
+      "visualizer": true
+    }
   },
   "results": {
     "music": {
@@ -87,6 +92,16 @@ A custom playable character requires creating a new JSON file in the `data/chara
       "GOOD": "resultsNORMAL-pico",
       "SHIT": "resultsSHIT-pico"
     },
+    "perfectGold": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "shared:resultScreen/results-pico/resultsPERFECT",
+        "zIndex": 500,
+        "scale": 0.88,
+        "offsets": [385, 82],
+        "loopFrame": 91
+      }
+    ],
     "perfect": [
       {
         "renderType": "animateatlas",

@@ -19,7 +19,7 @@ In other words, structure your mod like so:
        |-characters
          |-GF_assets.png
          |-GF_assets.xml
-   |-_polymod_metadata.json
+   |-_polymod_meta.json
 -Funkin.exe
 ```
 

@@ -21,7 +21,7 @@ We'll end up with something like this.
        |-Inst.ogg
        |-Voices-bf.ogg
        |-Voices-pico.ogg
-   |-_polymod_metadata.json
+   |-_polymod_meta.json
 ```
 
 When the game starts, it queries the list of available songs by looking in the `data/songs` folder for `<songid>/<songid>-metadata.json` files, which it then uses to find the chart file and the requisite song files. Neat! But right now, if you boot up the game, this doesn't do anything. You'll see it mentioned in the logs with no complaints, but it's not playable in Story Mode or Freeplay, what gives?

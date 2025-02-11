@@ -22,6 +22,7 @@ In order to make a fleshed out custom character that can be used from Character 
     - The character needs animations for leaping in, idle, confirm, and moving to character select. It also optionally has an idle and cartoon animation.
 - Assets for the character's Freeplay skin and the backing card.
     - This requires a variety of assets but can use Boyfriend's as a fallback.
+    - NOTE: This is currently hardcoded to BF or Pico.
 - Assets for the character's animations in the Results screen.
     - Each rank has its own animation and music, but animations can be reused between ranks and results themes can fall back to the default.
     - Rank animations are Loss, Good, Great, Excellent, Perfect, and Perfect Gold (the base game uses the same animation for Perfect and Perfect Gold)

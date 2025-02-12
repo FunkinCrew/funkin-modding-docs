@@ -25,7 +25,7 @@ We'll end up with something like this.
      |-storymenu
        |-titles
          |-myweek.png
-   |-_polymod_metadata.json
+   |-_polymod_meta.json
 ```
 
 Your custom week's JSON file will look something like the following:

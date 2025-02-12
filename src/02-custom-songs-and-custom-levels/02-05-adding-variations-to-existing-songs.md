@@ -25,7 +25,7 @@ Next, place the assets in the correct spots in our mod folder! Rename each of th
        |-Inst-erect.ogg
        |-Voices-bf-erect.ogg
        |-Voices-pico-erect.ogg
-   |-_polymod_metadata.json
+   |-_polymod_meta.json
 ```
 
 ## Registering the Variation in the JSON Data

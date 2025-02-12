@@ -16,7 +16,6 @@ In order to make a fleshed out custom character that can be used from Character 
 - Assets to use for the character's Girlfriend character to the left of them in the Character Select menu.
     - This is currently hard-coded to use an Adobe Animate texture atlas and cannot use a Sparrow spritesheet.
     - The character needs animations for unlock, idle, slide in, slide out, select, and deselect.
-    - NOTE: This is hardcoded to use only GF or Nene right now I swear I'll fix this soon.
 - Assets for the character to use on the Freeplay menu.
     - This is currently hardcoded to use an Adobe Animate texture atlas.
     - The character needs animations for leaping in, idle, confirm, and moving to character select. It also optionally has an idle and cartoon animation.

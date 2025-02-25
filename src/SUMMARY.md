@@ -50,12 +50,13 @@
 
 - [Using HScript](20-using-hscript/20-00-using-hscript.md)
     - [What is HScript?](20-using-hscript/20-01-what-is-hscript.md)
-- [Scripted Classes](20-using-hscript/21-00-scripted-classes.md)
+- [Scripted Classes](21-scripted-classes/21-00-scripted-classes.md)
     - [Scripted Songs](21-scripted-classes/21-01-scripted-songs.md)
+- [Scripted Modules](30-scripted-modules/30-00-scripted-modules.md)
+    - [Custom Modules](30-scripted-modules/30-01-custom-modules.md) 
 
 # HScript (Advanced)
 
-- [WIP: Scripted Modules](30-scripted-modules/30-00-scripted-modules.md)
 - [WIP: Custom Shaders](31-custom-shaders/31-00-custom-shaders.md)
 
 ---

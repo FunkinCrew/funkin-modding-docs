@@ -19,7 +19,7 @@ Inside this file, we will put the information the game needs in order to learn a
   "optionalDependencies": {
     "modB": "1.3.2"
   },
-  "api_version": "0.6.2",
+  "api_version": "0.6.3",
   "mod_version": "1.0.0",
   "license": "Apache-2.0"
 }
@@ -37,7 +37,7 @@ Inside this file, we will put the information the game needs in order to learn a
   - The mod list will be reordered such that dependencies load first.
 - `optionalDependencies`: A map of mod IDs which are optional dependencies, along with their version numbers.
   - These mods do not necessarily need to be installed for this mod to load, but they will still force the mod list to be reordered so that the dependencies load before this mod.
-- `api_version`: A version number used to determine if mods are compatible with your copy of Funkin'. Change this to the version number for Friday Night Funkin' that you want to support, preferably the latest one (`0.6.2` at time of writing.).
+- `api_version`: A version number used to determine if mods are compatible with your copy of Funkin'. Change this to the version number for Friday Night Funkin' that you want to support, preferably the latest one (`0.6.3` at time of writing.).
 - `mod_version`: A version number specifically for your mod. Choose any version or leave it at `1.0.0`.
 - `license`: The license your mod is distributed under. [Pick one from here](https://opensource.org/licenses) or just leave it as `Apache-2.0`.
 

@@ -41,7 +41,7 @@
 
 - [Migration](09-migration/09-00-migrating-mods-to-newer-versions.md)
     - [v0.1.0 to v0.5.0](09-migration/09-01-0.1.0-to-0.5.0.md)
-    - [v0.5.0 to v0.6.0](09-migration/09-02-0.5.0-to-0.6.0.md)
+    - [v0.5.0 to v0.6.3](09-migration/09-02-0.5.0-to-0.6.3.md)
 
 - [Appending And Merging Files](10-appending-and-merging-files/10-00-appending-and-merging-files.md)
     - [Appending Files](10-appending-and-merging-files/10-01-appending-files.md)

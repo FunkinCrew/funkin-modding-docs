@@ -2,13 +2,13 @@
 
 ## Sticker Pack Assets
 
-In order to create your own note style, you will need graphics for the stickers you want to use. The ones included in the base game are generally around 300x300 in size, with some variation.
+In order to create your own sticker pack, you will need graphics for the stickers you want to use. The ones included in the base game are generally around 300x300 in size, with some variation.
 
 ## Sticker Pack Data
 
-A custom note style requires creating a new JSON file in the `data/stickerpacks` folder.
+A custom sticker pack requires creating a new JSON file in the `data/stickerpacks` folder.
 
-Below is the "default" sticker pack JSON file `assets/data/stickerpacks/default.json`[^notestylesource]
+Below is the "default" sticker pack JSON file `assets/data/stickerpacks/default.json`[^stickerpacksource]
 
 ```json
 {
@@ -31,4 +31,4 @@ Let's break it all down.
 - `stickers`: A list of all the paths for all the stickers to use, as strings.
   - You cannot currently specify any additional arguments, such as scale, offsets, texture smoothing, or animations.
 
-[^notestylesource]: <https://github.com/FunkinCrew/funkin.assets/blob/main/preload/data/stickerpacks/default.json>
+[^stickerpacksource]: <https://github.com/FunkinCrew/funkin.assets/blob/main/preload/data/stickerpacks/default.json>

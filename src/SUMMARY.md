@@ -37,6 +37,11 @@
     - [Creating a Note Style](06-custom-notestyles/06-01-creating-a-notestyle.md)
     - [Using a Note Style in a Song](06-custom-notestyles/06-02-using-a-notestyle-in-a-song.md)
 
+- [Custom Sticker Packs](07-custom-sticker-packs/07-00-custom-sticker-packs.md)
+  - [Creating a new Sticker Pack](07-custom-sticker-packs/07-01-creating-a-new-sticker-pack.md)
+  - [Modifying an Existing Sticker Pack](07-custom-sticker-packs/07-02-modifying-an-existing-sticker-pack.md)
+  - [Using a Custom Sticker Pack](07-custom-sticker-packs/07-03-using-a-custom-sticker-pack.md)
+
 # Mod API Systems
 
 - [Migration](09-migration/09-00-migrating-mods-to-newer-versions.md)

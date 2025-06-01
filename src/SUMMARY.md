@@ -42,6 +42,10 @@
   - [Modifying an Existing Sticker Pack](07-custom-sticker-packs/07-02-modifying-an-existing-sticker-pack.md)
   - [Using a Custom Sticker Pack](07-custom-sticker-packs/07-03-using-a-custom-sticker-pack.md)
 
+- [Custom Albums](08-custom-albums/08-00-custom-albums.md)
+    - [Creating an Album](08-custom-albums/08-01-creating-an-album.md)
+    - [Using the Album](08-custom-albums/08-02-using-the-album.md)
+
 # Mod API Systems
 
 - [Migration](09-migration/09-00-migrating-mods-to-newer-versions.md)

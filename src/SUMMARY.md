@@ -37,6 +37,10 @@
     - [Creating a Note Style](06-custom-notestyles/06-01-creating-a-notestyle.md)
     - [Using a Note Style in a Song](06-custom-notestyles/06-02-using-a-notestyle-in-a-song.md)
 
+- [Custom Albums](07-custom-albums/07-00-custom-albums.md)
+    - [Creating an Album](07-custom-albums/07-01-creating-an-album.md)
+    - [Using the Album](07-custom-albums/07-02-using-the-album.md)
+
 # Mod API Systems
 
 - [Migration](09-migration/09-00-migrating-mods-to-newer-versions.md)

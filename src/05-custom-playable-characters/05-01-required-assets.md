@@ -2,9 +2,9 @@
 
 In order to make a fleshed out custom character that can be used from Character Select in Friday Night Funkin', you need a large number of textures, animations, and audio tracks:
 
-- A [custom character](03-custom-characters/03-00-custom-characters.md)
+- A [custom character](../03-custom-characters/03-00-custom-characters.md)
     - This requires a set of singing animations for the character.
-- At least one custom song that uses that character; this can be either [a new song](02-custom-songs-and-custom-levels/02-02-adding-the-custom-song.md) or a [variation added to an existing song](02-custom-songs-and-custom-levels/02-05-adding-variations-to-existing-songs.md).
+- At least one custom song that uses that character; this can be either [a new song](../02-custom-songs-and-custom-levels/02-02-adding-the-custom-song.md) or a [variation added to an existing song](../02-custom-songs-and-custom-levels/02-05-adding-variations-to-existing-songs.md).
     - This requires an instrumental and split vocal tracks.
 - A pixel icon asset to use for that character's icon in the Character Select grid.
     - This supports either a static image or a Sparrow spritesheet (which includes the animation to play when the character is selected).

@@ -160,7 +160,7 @@ A custom playable character requires creating a new JSON file in the `data/chara
 The available fields are:
 - `version`: The version number for the Playable Character data file format. Leave this at `1.0.0`.
 - `name`: The readable name for the character, used internally.
-- `ownedCharacters`: The list of [Characters](03-custom-characters/03-00-custom-characters.md) this character owns.
+- `ownedCharacters`: The list of [Characters](../03-custom-characters/03-00-custom-characters.md) this character owns.
     - When determining which songs to display in Freeplay, the game checks for any songs where the player character is in this list and displays those. Songs where the player character is in another array are not displayed.
 - `showUnownedChars`: If this value is `true`, then songs whose player character is not in any `ownedCharacters` list will be displayed for this character.
 - `unlocked`: Whether the character is unlocked.

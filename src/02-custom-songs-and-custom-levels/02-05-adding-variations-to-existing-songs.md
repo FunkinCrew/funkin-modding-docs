@@ -72,10 +72,10 @@ Then we apply a simple patch, which adds a new value to the `playData.songVariat
 ]
 ```
 
-The patching system is very flexible; it works on any JSON file (base game or provided by another mod) and has support for advanced behavior. See [Merging Files](10-appending-and-merging-files/10-02-merging-files.md) for more information.
+The patching system is very flexible; it works on any JSON file (base game or provided by another mod) and has support for advanced behavior. See [Merging Files](../10-appending-and-merging-files/10-02-merging-files.md) for more information.
 
 ## Conclusion
 
 Now, when you start the game, your additional variation should be available in-game!
 
-If you created a character remix, make sure the player character for the remix is included in the `ownedCharacters` data for your custom playable character. See [Custom Playable Characters](05-custom-playable-characters/05-00-custom-playable-characters.md) for more info.
+If you created a character remix, make sure the player character for the remix is included in the `ownedCharacters` data for your custom playable character. See [Custom Playable Characters](../05-custom-playable-characters/05-00-custom-playable-characters.md) for more info.

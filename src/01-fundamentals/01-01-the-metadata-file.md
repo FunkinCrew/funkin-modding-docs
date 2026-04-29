@@ -19,7 +19,7 @@ Inside this file, we will put the information the game needs in order to learn a
   "optionalDependencies": {
     "modB": "1.3.2"
   },
-  "api_version": "0.6.3",
+  "api_version": "0.8.0",
   "mod_version": "1.0.0",
   "license": "Apache-2.0"
 }

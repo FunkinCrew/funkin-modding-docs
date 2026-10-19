@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>TextureAtlas imagePath="Cosmo.png">
+<SubTexture name="Cosmo idle0000" x="3484" y="876" width="684" height="874" frameX="-542" frameY="-138" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo idle0001" x="2795" y="1763" width="686" height="876" frameX="-542" frameY="-136" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo idle0002" x="2795" y="0" width="689" height="883" frameX="-541" frameY="-129" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo idle0003" x="2795" y="883" width="688" height="880" frameX="-541" frameY="-132" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo idle0004" x="3484" y="0" width="686" height="876" frameX="-542" frameY="-136" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo idle0005" x="3484" y="1750" width="684" height="874" frameX="-542" frameY="-138" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo up0000" x="1391" y="1808" width="692" height="891" frameX="-599" frameY="-116" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo up0001" x="0" y="1808" width="696" height="899" frameX="-598" frameY="-108" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo up0002" x="0" y="0" width="699" height="904" frameX="-598" frameY="-103" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo up0003" x="699" y="0" width="699" height="904" frameX="-598" frameY="-103" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo up0004" x="1398" y="0" width="699" height="904" frameX="-598" frameY="-103" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo up0005" x="0" y="904" width="699" height="904" frameX="-598" frameY="-103" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo  dowm0000" x="4170" y="0" width="685" height="842" frameX="-536" frameY="-170" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo  dowm0001" x="0" y="3577" width="687" height="840" frameX="-535" frameY="-172" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo  dowm0002" x="687" y="3577" width="687" height="840" frameX="-535" frameY="-172" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo  dowm0003" x="1374" y="3577" width="687" height="840" frameX="-535" frameY="-172" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo  dowm0004" x="2061" y="3577" width="687" height="840" frameX="-535" frameY="-172" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo  dowm0005" x="2748" y="3577" width="687" height="840" frameX="-535" frameY="-172" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo left0000" x="0" y="2707" width="684" height="870" frameX="-501" frameY="-137" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo left0001" x="684" y="2707" width="685" height="865" frameX="-504" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo left0002" x="1369" y="2707" width="687" height="861" frameX="-503" frameY="-146" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo left0003" x="2056" y="2707" width="687" height="861" frameX="-503" frameY="-146" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo left0004" x="2743" y="2707" width="687" height="861" frameX="-503" frameY="-146" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo left0005" x="3430" y="2707" width="687" height="861" frameX="-503" frameY="-146" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo right0000" x="2083" y="1808" width="691" height="890" frameX="-645" frameY="-125" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo right0001" x="696" y="1808" width="695" height="899" frameX="-644" frameY="-116" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo right0002" x="699" y="904" width="698" height="902" frameX="-643" frameY="-113" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo right0003" x="1397" y="904" width="698" height="902" frameX="-643" frameY="-113" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo right0004" x="2097" y="0" width="698" height="902" frameX="-643" frameY="-113" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Cosmo right0005" x="2097" y="902" width="698" height="902" frameX="-643" frameY="-113" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
